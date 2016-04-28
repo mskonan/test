@@ -166,4 +166,3 @@ if __name__ == '__main__':
 
 
 
-#/sas/seq5/kyeongsj/app/twoBitToFa http://hgdownload.cse.ucsc.edu/gbdb/hg19/hg19.2bit hg19_test.fa -seq=$chr -start=$start -end=$end
