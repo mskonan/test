@@ -5,7 +5,10 @@ import numpy as np
 from six.moves import cPickle as pickle
 
 def convertSeq(inputFile):
-  ''' convert sequences to integers '''
+  ''' 
+  convert sequences to integers 
+  testing commit
+  '''
   f = open(inputFile, 'r')
   geneNameList = []
   f_total = f.readlines()
