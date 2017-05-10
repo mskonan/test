@@ -8,6 +8,7 @@ def convertSeq(inputFile):
   ''' 
   convert sequences to integers 
   testing commit
+  2nd commit
   '''
   f = open(inputFile, 'r')
   geneNameList = []
